@@ -11,19 +11,19 @@
 
 <br />
 
-<a href="https://github.com/trietdeptrai/Portfolio-SMU">
+<a href="https://github.com/thelearningest/Portfolio-SMU">
   <img src="./assets/projects/portfolio-smu.svg" alt="Portfolio-SMU — a narrative portfolio about moving from education and marketing into AI product building." width="100%" />
 </a>
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/trietdeptrai/my-awesome-skills">
+      <a href="https://github.com/thelearningest/my-awesome-skills">
         <img src="./assets/projects/my-awesome-skills.svg" alt="my-awesome-skills — reusable skills for learning, creating, and getting useful work done." width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/trietdeptrai/ChronicAI">
+      <a href="https://github.com/thelearningest/ChronicAI">
         <img src="./assets/projects/chronic-ai.svg" alt="ChronicAI — a context-driven health-record platform for patients and clinicians in Vietnam." width="100%" />
       </a>
     </td>
